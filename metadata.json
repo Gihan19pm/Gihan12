@@ -1,0 +1,5 @@
+{
+  "name": "Hands For Hope",
+  "description": "A donation tracking application with public and admin views, featuring real-time progress updates and goal management.",
+  "requestFramePermissions": []
+}
